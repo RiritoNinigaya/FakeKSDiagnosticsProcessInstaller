@@ -1,0 +1,2 @@
+# FakeKSDiagnosticsProcessInstaller
+FakeKSDiagnosticsProcessInstaller by RiritoNinigaya
